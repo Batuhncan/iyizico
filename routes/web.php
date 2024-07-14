@@ -6,4 +6,4 @@ use App\Http\Controllers\PaymentController;
 
 Route::get('/payment', [PaymentController::class, 'index']);
 
-//denemedir
+//denemeyi sildim
